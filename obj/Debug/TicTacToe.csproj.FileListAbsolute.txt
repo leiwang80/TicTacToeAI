@@ -1,0 +1,23 @@
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\obj\Debug\TicTacToe.FormGame.resources
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\obj\Debug\TicTacToe.FormSetting.resources
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\bin\Debug\TicTacToe.exe.config
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\obj\Debug\TicTacToe.exe
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\obj\Debug\TicTacToe.pdb
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\bin\Debug\TicTacToe.exe
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\bin\Debug\TicTacToe.pdb
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\obj\Debug\TicTacToe.FormGame.resources
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\obj\Debug\TicTacToe.FormSetting.resources
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Lei\Documents\C39 Lab\Prgrams\TicTacToe AI\TicTacToeAI\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
